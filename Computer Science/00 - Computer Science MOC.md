@@ -25,6 +25,9 @@ flowchart TD
     Dist --> Arch
 ```
 
+### 0. [[DSA MOC|00 - Data Structures & Algorithms]]
+Data Structures, Algorithms, Complexity Analysis, Dynamic Programming, Graph Theory, Range Queries, Advanced String Algorithms, and Competitive Problem Solving.
+
 ### 1. [[Operating Systems MOC|01 - Operating Systems]]
 Hardware abstraction, kernel architectures, process lifecycles, memory virtualization, CPU scheduling, concurrency primitives, synchronization, virtual file systems, storage engines, and eBPF internals.
 
